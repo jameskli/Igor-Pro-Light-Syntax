@@ -10,22 +10,23 @@
 @syntax-background-color: @white;
 
 // Guide colors
-@syntax-wrap-guide-color: @very-light-gray;
-@syntax-indent-guide-color: @very-light-gray;
-@syntax-invisible-character-color: @very-light-gray;
+@syntax-wrap-guide-color: @light-gray;
+@syntax-indent-guide-color: @light-gray;
+@syntax-invisible-character-color: @light-gray;
 
 // For find and replace markers
 @syntax-result-marker-color: @light-gray;
-@syntax-result-marker-color-selected: white;
+@syntax-result-marker-color-selected: @black;
 
 // Gutter colors
-@syntax-gutter-text-color: @light-gray;
+@syntax-gutter-text-color: @gray;
 @syntax-gutter-text-color-selected: darken(@pink, 5%);
-@syntax-gutter-background-color: @very-very-light-gray;
+@syntax-gutter-background-color: @very-light-gray;
 @syntax-gutter-background-color-selected: @very-light-gray;
 
 // For git diff info. i.e. in the gutter
-@syntax-color-renamed: @blue;
-@syntax-color-added: @green;
-@syntax-color-modified: @orange;
-@syntax-color-removed: @red;
+// These are static and were not extracted from your textmate theme
+@syntax-color-renamed: #96CBFE;
+@syntax-color-added: #A8FF60;
+@syntax-color-modified: #E9C062;
+@syntax-color-removed: #CC6666;
