@@ -1,5 +1,5 @@
-# igor-pro-light-syntax theme
+# Igor Pro Light Syntax
 
-A short description of your theme.
+A light colored syntax theme for Atom inspired by colors from Igor Pro. Main purpose is to have a theme with minimal pastel colors.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of your theme](/img/screenshot.png)
