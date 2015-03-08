@@ -1,7 +1,7 @@
 {
   "name": "igor-pro-light-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A light syntax theme inspired by Igor Pro.",
   "repository": "https://github.com/jameskli/Igor-Pro-Light-Syntax",
   "license": "MIT",
